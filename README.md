@@ -35,6 +35,7 @@
   <li>Mencari data yang hilang</li>
   <li>
     Mulai analisis data eksploratif pada data kita. Pertama, plot masing-masing fitur ini vs Emisi, untuk melihat seberapa linier hubungannya. Berikut salah satu contoh:
+    <br>
     <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgASX63xBnF2bkdaJndb9YrvJPasvauPywHFYuuqGXw4ykqeIBCJkDE9_xwFFoRS_Hhk9nUYpTH01y1VnnlQaoSVUPFBuS4aXCZLh8y5LXpJPaHXVXxzIIkmFvOV5CTplrmZNiZPqdKSE2s/w353-h235/engsize.jpg'>
     <p>Ukuran Mesin vs Emisi</p>
   </li>
